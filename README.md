@@ -1,0 +1,3 @@
+# atlassian
+
+Simple config examples
